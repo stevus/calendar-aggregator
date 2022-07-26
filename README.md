@@ -1,1 +1,1 @@
-# email-aggregator
+# calendar-aggregator
